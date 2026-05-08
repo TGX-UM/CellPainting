@@ -1,2 +1,2 @@
 # CellPainting
-Scripts used to analyse the integration of RNA-seq and features derived from microscope images of mouse embryonic stem cells
+Scripts used for Integrating transcriptomics and quantitative morphometrics to identify gene-to-phenotype correlations in mouse embryonic stem cells.
